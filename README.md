@@ -1,6 +1,6 @@
 # Academic Projects
 
-| Directory | Ranking | Course | Course Code
+ Directory | Ranking | Course | Course Code
  |---|---|---|---|
 fsu |  Graduate  |  Applied Machine Learning | STA 5635
  | - |  High Performance Computing | ISC 5318
