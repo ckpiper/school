@@ -12,4 +12,4 @@ psu  |  UnderGraduate  |  Data Structures and Intermediate Programming | CS 2381
  |  |  Scientific Programming | CS 2400
  |---|---|---|---|
 owu | Summer REU | Code |
- |  |  Poster Presentation |
+  |  |  Poster Presentation | 
