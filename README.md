@@ -10,5 +10,4 @@
 |  |  |  Computer Organization | CDA 3100 |
 | psu  |  Undergraduate  |  Data Structures and Intermediate Programming | CS 2381 |
 |  |  |  Scientific Programming | CS 2400
-| owu | Summer REU | Code |
-|  |  |  Poster Presentation | |
+| owu | Summer REU | Poster Presentation |
